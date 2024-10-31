@@ -2,6 +2,12 @@
 
 This project simulates a pendulum's motion based on the principle of least action by calculating the Lagrangian mechanics involved in its swing. The simulation includes an animated pendulum swing alongside a dynamic graph of angle vs. time. We aim to demonstrate core physics concepts in an interactive, visual format.
 
+## Pendulum Simulation Animation
+
+Here’s an example of the pendulum in motion:
+
+![Pendulum Swing](images/pendulum_swing.png)
+
 ## Features
 
 - **Physics-based Simulation**: Uses Lagrangian mechanics to solve equations of motion for a realistic pendulum swing.
