@@ -8,7 +8,7 @@ from pendulum.plot import setup_plots
 # We define here the simulation parameters
 length = 1.0                  # Length of pendulum in meters
 mass = 1.0                    # Mass of pendulum bob in kg
-initial_angle = np.pi / 6     # Initial angle of 45 degrees
+initial_angle = np.pi / 4     # Initial angle of 45 degrees
 initial_conditions = [initial_angle, 0]
 time_span = (0, 10)           # Time span for simulation in seconds
 time_points = np.linspace(time_span[0], time_span[1], 1000)
